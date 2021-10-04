@@ -1,0 +1,28 @@
+.banner {
+    background-image: url("https://images.pexels.com/photos/256541/pexels-photo-256541.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"),
+      linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+    height: 780px;
+    width: 100%;
+    /* border: 1px solid red; */
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+ 
+  }
+  .title {
+    color: white;
+    font-weight: bold;
+    font-size: 59px;
+  }
+  .font{
+    color: #ff0505;
+    font-weight:500;
+  }
+  .about-btn {
+    background-color: #ff0505;
+    outline: none;
+    border: none;
+    padding: 17px 34px;
+    color: white;
+  }

@@ -1,0 +1,15 @@
+.items {
+    list-style: none;
+    margin-right: 30px;
+    font-size: 22px;
+    font-weight: 500;
+    color: rgb(221, 5, 5);
+    cursor: pointer;
+    padding: 5px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  .items:hover {
+    color: white;
+  }
+  

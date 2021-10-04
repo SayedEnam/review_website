@@ -1,0 +1,22 @@
+.banner{
+   background-image: url("https://images.pexels.com/photos/247899/pexels-photo-247899.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+ 
+   
+}
+.card {
+    margin: 3%;
+ 
+}
+
+.about-container{
+    margin-left: 7%;
+    
+}
+.about-us{
+    display: flex;
+    margin-top: 5%;
+}
+.number{
+color: #ff0505;
+font-size: 1.5em;
+}
